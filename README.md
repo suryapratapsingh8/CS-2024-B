@@ -1,18 +1,17 @@
 # CS-2024-B
-# CS-2024-b
 This repository contains the details of major project created by the students of 2024 Batch at Computer Science Department, KIET Ghaziabad.<br>
 
 <b>#NOTE</b><br>
 This repository contains the details of students under following faculty mentor only.<br>
 <ul>
-  <li>Dr. Kalpana Sagar</li>
-  <li>Ms. Neha Shukla</li>
-  <li>Ms. Pallavi Sharma</li>
-  <li>Ms. Pooja Sharma</li>
-  <li>Mr. Sreesh Gaur</li>
-  <li>Mr. Vikas Kamra</li>
-  <li>Mr. Balvidya Mitr</li>
-  <li>Mr. Gaurav Rawat</li>
+  <li>MS. Akanksha</li>
+  <li>Mr. Akash Goel</li>
+  <li>Mr Anurag Mishra</li>
+  <li>Ms. Arti Sharma</li>
+  <li>Ms. Arushi Gupta</li>
+  <li>Mr. Pawan Kumar Pal</li>
+  <li>Mr. Pradeep Tyagi</li>
+  <li>MS. Shivani</li>
 </ul>
   
 <b>#How to access</b><br>
