@@ -177,7 +177,6 @@ Folders of following project Ids has been created.<br>
 		<td> PCS24-38 </td>
 		<td> MR ANURAG MISHRA </td>
 	</tr>
-	
 	<tr>
 		<td> 29 </td>
 		<td> PCS24-05 </td>
