@@ -120,11 +120,6 @@ Folders of following project Ids has been created.<br>
 				<td>MS. Arushi Gupta&nbsp;</td>
 			</tr>
 			<tr>
-				<td>17.&nbsp;</td>
-				<td>PCS23- 39</td>
-				<td><span style="font-style: normal; font-weight: 400;">MS. Arushi Gupta&nbsp;</span>&nbsp;</td>
-			</tr>
-			<tr>
 				<td>18.&nbsp;</td>
 				<td>PCS23- 11</td>
 				<td>MR. Pawan Kumar Pal&nbsp;</td>
